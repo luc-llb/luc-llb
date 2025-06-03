@@ -2,7 +2,7 @@
 
 🎓 Estudante de Engenharia da Computação na UNIFEI  
 🔬 Pesquisador nas áreas de eletrônica, computação e educação pelo [PETTEC](https://www.instagram.com/pettec_unifei/)  
-🚀 Desenvolvendo, principalmente, projetos web e embarcados  
+🚀 Desenvolvendo, principalmente, projetos web (fullstack) e embarcados  
 📫 Entre em contato: lucbarbosa226@gmail.com  
 📲 Meu LinkedIn: [Lucas Luan B. Barbosa](https://www.linkedin.com/in/lucaslbbarbosa/)
 
