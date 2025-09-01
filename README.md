@@ -26,13 +26,13 @@
       </a>
     </td>
     <td>
+      <a href="https://github.com/luc-llb/api-integration">
+        <img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=luc-llb&repo=api-integration&theme=dark&hide_border=false" />
+      </a>
+    </td>
+    <td>
       <a href="https://github.com/luc-llb/scraping-espn">
         <img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=luc-llb&repo=scraping-espn&theme=dark&hide_border=false" />
-      </a>
-    </td> <!-- Espaçamento -->
-    <td>
-      <a href="https://github.com/luc-llb/expense_control">
-        <img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=luc-llb&repo=expense_control&theme=dark&hide_border=false" />
       </a>
     </td>
   </tr>
@@ -139,7 +139,7 @@
   >
     <img
       width="800"
-      src="https://github-profile-trophy.vercel.app/?username=luc-llb&column=8&theme=darkhub&no-frame=true&no-bg=true&rank=-?"
+      src="https://github-profile-trophy.vercel.app/?username=luc-llb&column=8&theme=darkhub&no-frame=true&no-bg=true&rank=-?,-C"
     />
   </a>
 </p>
