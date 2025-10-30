@@ -8,7 +8,7 @@
 
 <div>
   <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=lucbarbosa226@gmail.com" alt="Email" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" style="height: 25px;" /></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" style="height: 25px;" /></a>
   <a href="https://linkedin.com/in/lucaslbbarbosa/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" style="height: 25px;" /></a>
   <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=luc-llb.luc-llb&" style="height: 25px;" /> -->
@@ -22,7 +22,7 @@
   <tr>
     <td>
       <a href="https://github.com/luc-llb/challenges_BairesDev">
-        <img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=luc-llb&repo=challenges_BairesDev&theme=dark&hide_border=false" />
+        <img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=luc-llb&repo=commission-manager-api&theme=dark&hide_border=false" />
       </a>
     </td>
     <td>
@@ -32,7 +32,7 @@
     </td>
     <td>
       <a href="https://github.com/luc-llb/scraping-espn">
-        <img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=luc-llb&repo=scraping-espn&theme=dark&hide_border=false" />
+        <img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=luc-llb&repo=lead-capture&theme=dark&hide_border=false" />
       </a>
     </td>
   </tr>
