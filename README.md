@@ -15,7 +15,7 @@
 </div>
 
 ---
-
+<!--
 ## 🚀 Projetos em Destaque
 
 <table align="center">
@@ -39,6 +39,7 @@
 </table>
 
 ---
+-->
 
 ## Stacks Utilizadas
 
@@ -98,7 +99,7 @@
 ---
 <!--
   Esse trecho foi feito baseado no código: https://github.com/iuricode/readme-template/blob/main/perfil/exemplo-07.md
--->
+  
 ## ⚙️ GitHub Analytics 
 
 <table>
@@ -128,7 +129,7 @@
   </tr>
 </table>
 
---- 
+---
 
 ## 🏆 Troféus do GitHub 
 
@@ -145,7 +146,7 @@
 </p>
 
 ###
-
+-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luc-llb/luc-llb/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luc-llb/luc-llb/output/pacman-contribution-graph.svg">
