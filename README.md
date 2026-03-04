@@ -1,10 +1,12 @@
 ## Olá, meu nome é Lucas Luan!
 
-🎓 Estudante de Engenharia da Computação na UNIFEI  
+<img align="right" height="150" src="https://i.pinimg.com/originals/ca/21/bf/ca21bfd926a070617e9f16c3344da30d.gif"  />
+
+🎓 Formando em Engenharia da Computação na UNIFEI  
 💖 Apaixonado por Desenvolvimento de Software   
-🔬 Pesquisador nas áreas de computação e educação pelo [PETTEC](https://www.instagram.com/pettec_unifei/)  
-🚀 Desenvolvedor Full Stack com grande interesse em Backend  
-✨ Sempre em busca de novos aprendizados e novos desafios  
+🚀 Desenvolvedor Backend e Full Stack  
+✨ Sempre em busca de novos aprendizados e novos desafios    
+📚 Perfil autodidata, capaz de aprender enquanto aplica
 
 <div>
   <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=lucbarbosa226@gmail.com" alt="Email" target="_blank">
