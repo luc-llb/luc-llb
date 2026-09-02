@@ -2,7 +2,7 @@
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/ca/21/bf/ca21bfd926a070617e9f16c3344da30d.gif"  />
 
-🎓 Formando em Engenharia da Computação na UNIFEI  
+🎓 Engenheiro da Computação pela UNIFEI  
 💖 Apaixonado por Desenvolvimento de Software   
 🚀 Desenvolvedor Backend e Full Stack  
 ✨ Sempre em busca de novos aprendizados e novos desafios    
@@ -17,33 +17,8 @@
 </div>
 
 ---
-<!--
-## 🚀 Projetos em Destaque
 
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/luc-llb/challenges_BairesDev">
-        <img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=luc-llb&repo=commission-manager-api&theme=dark&hide_border=false" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/luc-llb/api-integration">
-        <img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=luc-llb&repo=api-integration&theme=dark&hide_border=false" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/luc-llb/scraping-espn">
-        <img width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=luc-llb&repo=lead-capture&theme=dark&hide_border=false" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
--->
-
-## Stacks Utilizadas
+## Main Stacks
 
 <table align="center">
   <thead>
@@ -56,28 +31,25 @@
     <tr>
       <td><strong>Backend</strong></td>
       <td width="250">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="38" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="40" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
       </td>
     </tr>
     <tr>
       <td><strong>Frontend</strong></td>
       <td width="250">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
       </td>
     </tr>
     <tr>
       <td><strong>Ferramentas e outros</strong></td>
       <td width="250">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+        <img src="https://www.lundatech.com/hubfs/SQL%20Server.png" height="40" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" />
       </td>
     </tr>
   </tbody>
