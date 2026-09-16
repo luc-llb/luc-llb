@@ -33,7 +33,6 @@
       <td width="250">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="38" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="40" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" />
       </td>
     </tr>
@@ -49,6 +48,7 @@
       <td width="250">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
         <img src="https://www.lundatech.com/hubfs/SQL%20Server.png" height="40" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="40" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
       </td>
     </tr>
