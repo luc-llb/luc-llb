@@ -50,6 +50,7 @@
         <img src="https://www.lundatech.com/hubfs/SQL%20Server.png" height="40" />
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" height="40" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
+        <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/960px-Tux.svg.png" height="40" />
       </td>
     </tr>
   </tbody>
